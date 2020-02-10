@@ -35,6 +35,8 @@ The methods for favoriting and unfavoriting a story should be defined in the Use
 
 Logged in users can remove a story. Once a story has been deleted, it is removed from the DOM and when the page refreshes, the story is deleted.
 
+### Screenshot
+
 ![Image of Application](https://github.com/crwirth/Hacker-News-Clone/blob/master/Screen%20Shot%202020-02-10%20at%2011.52.42%20AM.png)
 
 You can access my functioning Hacker News site here:
