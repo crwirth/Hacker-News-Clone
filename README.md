@@ -6,7 +6,7 @@ This project focused on how to use an existing API to build out the functionalit
 
 ### There are two JavaScript files:
 - api-classes.js
-  - This file contains the classes I used and stored all the logic for communicating with the API.
+ - This file contains the classes I used and stored all the logic for communicating with the API.
 - ui.js
-  - This file makes use of the classes in api-classes.js and contains all of the DOM manipulation and jQuery code necessary.
+ - This file makes use of the classes in api-classes.js and contains all of the DOM manipulation and jQuery code necessary.
 
